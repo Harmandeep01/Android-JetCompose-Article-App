@@ -50,7 +50,6 @@ The `ArticleCard` composable arranges these elements in a vertical `Column`, wit
 ## Credits
 
 - **Project Development:** [Harmandeep](mailto:sharmandeep954@gmail.com)
-- **LinkedIn
 
 ## Contributing
 
@@ -60,4 +59,4 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 - [LinkedIn](https://www.linkedin.com/in/harmandeep-87032918b/)
 - [GitHub]([https://github.com/Harmandeep01)
--[Gmail]([Harmandeep](mailto:sharmandeep954@gmail.com)
+- [Gmail](mailto:sharmandeep954@gmail.com)
