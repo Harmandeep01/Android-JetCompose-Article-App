@@ -58,8 +58,8 @@ class MainActivity : ComponentActivity() {
 fun ComposeArticleApp() {
     ArticleCard(
         title = stringResource(R.string.heading),
-        shortDescription = stringResource(R.string.compose_short_desc),
-        longDescription = stringResource(R.string.compose_long_desc),
+        shortDescription = stringResource(R.string.text1),
+        longDescription = stringResource(R.string.text2),
         imagePainter = painterResource(R.drawable.bg_compose_background)
     )
 }
