@@ -37,7 +37,7 @@ class MainActivity : ComponentActivity() {
                         text2 = stringResource(R.string.text2),
                         modifier = Modifier.padding(innerPadding),
 
-                    )
+                        )
                 }
             }
         }
@@ -46,8 +46,8 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun Heading(heading: String, modifier: Modifier = Modifier) {
-Column(
-    modifier = modifier){
+    Column(
+        modifier = modifier){
         Text(
             text = heading,
             fontSize = 24.sp,
