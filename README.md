@@ -58,5 +58,5 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/harmandeep-87032918b/)
-- [GitHub]([https://github.com/Harmandeep01)
+- [GitHub](https://github.com/Harmandeep01)
 - [Gmail](mailto:sharmandeep954@gmail.com)
